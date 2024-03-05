@@ -1,0 +1,19 @@
+{
+  "name": "com.scottdoxey.unity-console-writeline-proxy",
+  "displayName": "Unity Console.WriteLine Proxy",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Finally, we can write to the \"Console\" from an assembly definition with No Engine Reference enabled.",
+  "license": "MIT",
+  "dependencies": {},
+  "keywords": [
+    "csharp",
+    "console",
+    "debug"
+  ],
+  "homepage": "https://github.com/neogeek/unity-console-writeline-proxy",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:neogeek/unity-console-writeline-proxy.git"
+  }
+}
