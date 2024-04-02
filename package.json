@@ -11,6 +11,11 @@
     "console",
     "debug"
   ],
+  "author": {
+    "name": "Scott Doxey",
+    "email": "hello@scottdoxey.com",
+    "homepage": "http://scottdoxey.com/"
+  },
   "homepage": "https://github.com/neogeek/unity-console-writeline-proxy",
   "repository": {
     "type": "git",
